@@ -7,10 +7,10 @@ body {
   }
   
   h1 {
-      margin: 200px;
+      margin-top: 200px;
       text-align: center;
       font-size: 72;
-      color: rgb(20, 118, 156);
+      color:rgb(20, 118, 156);
   }
   
   #fo {
@@ -27,13 +27,13 @@ body {
   
   #q {
     
-    width : 350px;
-    height: 55px;
-    color: lightseagreen;
-    background-color: lightyellow;
-    border: 1px solid lightseagreen;
+    width : 650px;
+    height: 65px;
+    color:rgb(20, 118, 156);
+    background-color: white;
+    border: 1px solid rgb(20, 118, 156);
     font-size: 36px;
-    border-radius: 5px;
+    border-radius: 60px;
     padding:10px;
     left: 50%;
     margin-left:-5px;
@@ -43,13 +43,14 @@ body {
   
   
   #subm {
-    background-color: slategray;
+    background-color:white;
     
     width : 150px;
     height: 30px;
-    color: lightseagreen;
-    border: 1px solid lightseagreen;
-    border-radius: 5px;
+    background-color:  rgb(20, 118, 156);
+    color: white;
+    border: 1px solid rgb(20, 118, 156);
+    border-radius: 60px;
     left: 50%;
     margin-left:-5px;
   }
