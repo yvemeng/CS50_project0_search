@@ -1,0 +1,59 @@
+body {
+    background-color: lightgrey;
+  }
+  
+  ul {
+    list-style-type:none;
+  }
+  
+  h1 {
+      margin: 200px;
+      text-align: center;
+      font-size: 72;
+      color: rgb(20, 118, 156);
+  }
+  
+  #fo {
+    text-align: center;
+  
+    margin: 250px;
+    margin-top: 2px;
+    width: 50%;
+    font-weight: 550;
+    font-size: 12px;
+    padding: 20px;
+  
+  }
+  
+  #q {
+    
+    width : 350px;
+    height: 55px;
+    color: lightseagreen;
+    background-color: lightyellow;
+    border: 1px solid lightseagreen;
+    font-size: 36px;
+    border-radius: 5px;
+    padding:10px;
+    left: 50%;
+    margin-left:-5px;
+    margin-bottom: 20px;
+  
+  }
+  
+  
+  #subm {
+    background-color: slategray;
+    
+    width : 150px;
+    height: 30px;
+    color: lightseagreen;
+    border: 1px solid lightseagreen;
+    border-radius: 5px;
+    left: 50%;
+    margin-left:-5px;
+  }
+  
+  
+  
+  
